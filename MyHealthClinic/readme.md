@@ -1,3 +1,5 @@
+#Connect();
+
 #My Health Clinic
 
 ## Overview
