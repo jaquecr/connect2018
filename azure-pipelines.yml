@@ -1,5 +1,5 @@
-queue:
-  name: Hosted 2017
+pool:
+  vmImage: 'Ubuntu-16.04'
 
 steps:
 
