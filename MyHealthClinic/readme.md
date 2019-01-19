@@ -1,4 +1,4 @@
-#Connect(); Brasil 2018
+#Connect();
 
 #My Health Clinic
 
